@@ -1,3 +1,3 @@
-class SchoolClassesController < ActiveRecord::Base 
+class SchoolClassesController < ApplicationController
   
 end 
